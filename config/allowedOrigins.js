@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'https://exercises.onrender.com'
+    'https://exercises-zvo1.onrender.com'
 ]
 
 module.exports = allowedOrigins
